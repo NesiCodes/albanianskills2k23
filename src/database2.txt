@@ -1,0 +1,23 @@
+authenticated;be578d75-cc3d-4407-b775-0b7bb690af98
+token;J71022075V;Andi;Hoxha;M;20/10/1997;be578d75-cc3d-4407-b775-0b7bb690af98;banana cherry serendipity quicksilver juxtapose xanadu yearning velvet orchid yearn nectar obsidian;2023-12-14 06:20:56.962621
+token;J71022075V;Benard;Hoxha;M;20/10/1997;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;guitar breeze watermelon moonlight reverie pandemonium whimsical kangaroo wanderlust rose juxtapose avalanche;2023-12-14 06:21:03.703882
+
+
+nft;real_estate;50000.0;rruga Qemal Stafa, pallati 20, apartamenti 2;55dc2333-cfc9-4d2d-a8b5-e30ad2368a1b;2023-12-14 06:22:42.904395;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084
+
+nft;real_estate;45000.0;rruga Kavajes, pallati 20, apartamenti 2;ba00a2e0-22d2-4e46-b45f-b4a92f0127a9;2023-12-14 10:00:49.902385;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084
+nft;real_estate;90000.0;rruga testing, pallati 20, apartamenti 2;74a8a5f9-a627-4c57-8033-430852454296;2023-12-14 10:01:12.758195;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084
+
+transaction;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;be578d75-cc3d-4407-b775-0b7bb690af98;55dc2333-cfc9-4d2d-a8b5-e30ad2368a1b;real_estate;rruga Qemal Stafa, pallati 20, apartamenti 2;40000.0;2023-12-14 10:37:06.754108
+transaction;be578d75-cc3d-4407-b775-0b7bb690af98;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;ba00a2e0-22d2-4e46-b45f-b4a92f0127a9;real_estate;rruga Qemal Stafa, pallati 20, apartamenti 2;40000.0;2023-12-14 10:37:06.754108
+transaction;be578d75-cc3d-4407-b775-0b7bb690af98;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;74a8a5f9-a627-4c57-8033-430852454296;real_estate;rruga Qemal Stafa, pallati 20, apartamenti 2;40000.0;2023-12-14 10:37:06.754108
+
+transaction;be578d75-cc3d-4407-b775-0b7bb690af98;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;55dc2333-cfc9-4d2d-a8b5-e30ad2368a1b;real_estate;rruga Qemal Stafa, pallati 20, apartamenti 2;50000.0;2023-12-15 03:51:58.116181
+
+
+token;J71022075V;Unejsi;Isufaj;M;20/10/2003;ab906583-9a3e-4662-be2b-9aa623d96c3e;zest mellifluous rhapsody fire unity zenith xylophone echo effervescent fractal butterfly notebook;2023-12-15 03:54:27.481208
+
+token;J71022075V;Johan;Doe;M;20/10/1997;3aac8947-326b-442c-b34d-6cc1076598a8;dog nirvana unity xanadu nautical triumph talisman whisper daffodil clarity horizon elephant;2023-12-15 09:42:39.583677
+nft;real_estate;7000000.0;rruga Qemal Stafa, pallati 20, apartamenti 2;154c0b8e-280e-424e-a518-01f168658163;2023-12-15 10:08:35.303353;be578d75-cc3d-4407-b775-0b7bb690af98
+transaction;be578d75-cc3d-4407-b775-0b7bb690af98;15c6ea07-8e12-4a7d-bf5b-e3b4a274f084;ba00a2e0-22d2-4e46-b45f-b4a92f0127a9;real_estate;rruga Kavajes, pallati 20, apartamenti 2;45000.0;2023-12-15 10:17:41.881605
+
